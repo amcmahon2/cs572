@@ -240,7 +240,7 @@ public class CheckersData{
         int oppKing;
         int direction;       
         //initialize piece variables for ease of access
-        if(player == 0){
+        if(player == 1){
             my = RED;
             myKing = RED_KING;
             opp = BLACK;
@@ -280,7 +280,7 @@ public class CheckersData{
         int oppKing;
         int direction;
         //initialize piece variables for ease of access
-        if(player == 0){
+        if(player == 1){
             my = RED;
             myKing = RED_KING;
             opp = BLACK;
